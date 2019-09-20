@@ -77,8 +77,8 @@
 	</dependencies>
 	<distributionManagement>
   <snapshotRepository>
-    <id>jfrog</id>
-    <url>http://ec2-54-200-181-254.us-west-2.compute.amazonaws.com:8081/artifactory/libs-snapshot-local</url>
+    <id>nexus</id>
+    <url>http://ec2-34-228-210-12.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
 </distributionManagement>
 
